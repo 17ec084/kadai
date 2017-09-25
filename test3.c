@@ -3,16 +3,16 @@ void main(void)
 {
 int i;
 scanf("%d",&i);
-printf("%d==5ÇÕ%d\n",i,i==5);
-printf("!%dÇÕ%d\n",i,!i);
-printf("%d!=5ÇÕ%d\n",i,i!=5);
-printf("%d<=5ÇÕ%d\n",i,i<=5); 
-printf("%d>=5ÇÕ%d\n",i,i>=5);
-printf("%d<5ÇÕ%d\n",i,i<5);
-printf("%d>5ÇÕ%d\n",i,i>5);
-printf("%d<=5&&%d>=5ÇÕ%d\n",i,i,i<=5&&i>=5);    
-printf("%d<=5||%d>=5ÇÕ%d\n",i,i,i<=5||i>=5);
-printf("!%d||%dÇÕ%d,i,i-4",!i||i-4); 
+printf("%d==5‚Äö√ç%d\n",i,i==5);
+printf("!%d‚Äö√ç%d\n",i,!i);
+printf("%d!=5‚Äö√ç%d\n",i,i!=5);
+printf("%d<=5‚Äö√ç%d\n",i,i<=5); 
+printf("%d>=5‚Äö√ç%d\n",i,i>=5);
+printf("%d<5‚Äö√ç%d\n",i,i<5);
+printf("%d>5‚Äö√ç%d\n",i,i>5);
+printf("%d<=5&&%d>=5‚Äö√ç%d\n",i,i,i<=5&&i>=5);    
+printf("%d<=5||%d>=5‚Äö√ç%d\n",i,i,i<=5||i>=5);
+printf("!%d||%d‚Äö√ç%d",i,i-4,!i||i-4); 
 
 
 }
